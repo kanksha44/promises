@@ -1,7 +1,5 @@
 # promises
 
-Sure! Let's break it down:
-
 #Promise: Imagine you ask your friend to bring you some ice cream. You don't know how long it will take, but your friend promises to bring it. A promise in JavaScript is similar. It's like saying, "I'll do something, and when I'm done, I'll let you know."
 
 #Promise.prototype.then(): This method is like saying, "When my friend brings the ice cream, I'll eat it." In code, it looks like this:
